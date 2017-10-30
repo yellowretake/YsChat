@@ -1,0 +1,15 @@
+//
+//  YsChat-Prefix.pch
+//  YsChat
+//
+//  Created by 黄欣 on 2017/10/24.
+//  Copyright © 2017年 黄欣. All rights reserved.
+//
+
+#ifndef YsChat_Prefix_pch
+#define YsChat_Prefix_pch
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+#import "UIViewExt.h"
+#endif /* YsChat_Prefix_pch */
